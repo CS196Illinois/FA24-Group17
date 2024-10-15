@@ -1,7 +1,7 @@
 # Group 17
 Group Name: 17
 
-[MVP Link](https://docs.google.com/document/d/1xFI9DDdO5HZAcu36Y6NL-RTDry5E3WHkfy-ZEWuqbXM/edit?usp=sharing)
+[MVP Link](https://docs.google.com/document/d/15QfhxTEBalwgNpfhZ5JjMQHOgXY3xBPv/edit)
 
 Team Members: 
 - madhav4
